@@ -8,4 +8,4 @@ Slides from Bsides Tampa 2020 talk "How to ARM Yourself" by [Derek Banks](https:
 
 [Pelicap-pi](https://github.com/ralphte/pelicap-pi)
 
-[Shadow-pi] (https://github.com/ralphte/shadow-pi)
+[Shadow-pi](https://github.com/ralphte/shadow-pi)
